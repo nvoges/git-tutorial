@@ -1,7 +1,10 @@
 ***ISUE***: underline all headlines (abstract, results)
 
+Authors' list: Donald Duck, Duffy Duck, and Alfred Jodokus Quack
+
 Abstract:
 ***ISUE***: write a nice greeting for the beginning
+
 ***ISUE***: write an even nicer greeting for the beginning
 
 Results:
